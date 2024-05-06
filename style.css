@@ -1,0 +1,63 @@
+body{
+  background-color: rgba(50, 130, 65, 0.97);
+  color: #bfd379;
+
+}
+
+
+h1{
+  font-family:serif;
+  text-align:center;
+  text-shadow: 3px 5px #d41616;
+  text-decoration: underline;
+}
+
+.ugly{
+  margin: 16px;
+  width: 400px;
+  border-radius:59px;
+  float:right;
+  border-style:double;
+  border-width: 8px;
+}
+  h2{
+  text-align: center;
+  
+}
+p{
+ text-align: center; 
+}
+
+}
+.animal{
+  float: right;  
+  width: 250px;
+  border-radius: 77px 16px 69px 21px;
+  border-style:Ridge;
+  border-color: rgb(160, 130, 12);
+  border-width: 6px;
+}
+.raccon-text{
+  color: #865415;
+  font-size: 34px;
+  text-align: center;
+  text-shadow: 2px 5px black ;
+  text-decoration: none;
+  text-emphasis-style:triangle;
+    
+}
+ol{
+  color: #6e430e;
+  font-size: 18px;
+  font-weight: bold;
+
+}
+.BandA{
+  width: 700px;
+  height: 300px;
+  float:right;
+  border-radius: 43px 83px 7px 100px;
+  border-width:6px;
+  border-color: rgb(160, 130, 12);
+  border-style: inset;
+}
